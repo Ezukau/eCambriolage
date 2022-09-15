@@ -3,7 +3,7 @@
 - ESX
 - Full configurable
 - 0.00ms
-- 3 type de cambriolage (Nul, Moyen, Bien)
+- 3 type de cambriolages (Nul, Moyen, Bien)
 - Policier nécessaire pour cambrioler (Configurable)
 - Les policer reçoivent l'alerte
 - Point de revente et prix de revente des items (Configurable)
