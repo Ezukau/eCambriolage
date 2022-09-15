@@ -48,7 +48,7 @@ AddEventHandler("eCambriolage:enter", function(posCambriolage, posSortie)
                 end
             end
         else
-            TriggerClientEvent('esx:showNotification', source, "~r~Vous n'avez pas de "..Config.ItemPourCambrioler)
+            TriggerClientEvent('esx:showNotification', source, "~r~Vous n'avez pas de "..ESX.GetItemLabel(Config.ItemPourCambrioler))
             TriggerClientEvent("eCambriolage:noenter", source)
         end
     else
