@@ -12,7 +12,6 @@ INSERT INTO items (name, label) VALUES
   ("vesteencuir", "Veste en cuir"),
   ("pullbleu", "Pull bleu"),
   ("maquillage", "Trousse de maquillage"),
-  ("soincheveux", "Soin pour cheveux"),
   ("dvd", "DVD"),
   ("vieuxjean", "Vieux Jean"),
   ("ordi", "Ordinateur portable"),
