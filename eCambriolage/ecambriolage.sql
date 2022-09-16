@@ -19,4 +19,5 @@ INSERT INTO items (name, label) VALUES
   ("radio", "Radio"),
   ("chaine", "Chaine"),
   ("casqueaudio", "Casque Audio"),
+  (pied_biche", "Pied de biche),
   ("montre", "Montre");
