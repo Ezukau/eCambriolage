@@ -39,7 +39,7 @@ Config = {
         {itemname = "montre", price = 162},
         {itemname = "chaine", price = 135},
         {itemname = "casqueaudio", price = 89},
-        {itemname = "vieuxjean", price = 54},
+        {itemname = "vieuxjean", price = 54}
     },
 
     MarkerType = 21, -- https://docs.fivem.net/docs/game-references/markers/
